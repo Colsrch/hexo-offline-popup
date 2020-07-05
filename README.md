@@ -1,6 +1,6 @@
 # hexo-offline-popup
 
-hexo-offline-popup 是一个 [hexo](https://hexo.io) 插件， 它可使你的网站离线访问，并且加速网站的加载。当网站内容有更新时，它会弹出一个弹窗提示你刷新。
+hexo-offline-popup 是一个 [hexo](https://hexo.io) 插件， 它可加速您的Hexo网站的加载速度，以及网站内容更新弹窗提示。
 
 该插件基于停止维护已久的hexo-service-worker插件，并在它的基础上加以改进。
 
