@@ -1,7 +1,7 @@
 {
   "name": "hexo-offline-popup",
-  "version": "1.0.1",
-  "description": "实现Hexo网站的离线访问、加速加载、网站内容更新弹窗提示",
+  "version": "1.0.2",
+  "description": "实现加速Hexo网站的加载速度、网站内容更新弹窗提示",
   "main": "lib/index.js",
   "directories": {
     "lib": "lib",

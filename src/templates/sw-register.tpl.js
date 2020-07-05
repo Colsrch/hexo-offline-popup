@@ -20,7 +20,7 @@ if (navigator.serviceWorker) {
                 /* eslint-disable max-len */
                 dom.innerHTML = ''
                     + '<div>'
-                        + '<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Colsrch/CDN@master/hexo-offline-popup.css">'
+                        + '<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Colsrch/CDN/hexo-offline-popup.css">'
                         + '<div class="c-message animated animated-lento slideInRight">'
                             + '<i class=" c-message--icon c-message--success"></i>'
                             + '<div class="el-notification__group">'
